@@ -1,6 +1,6 @@
 # FDE Event starter repo — merged pack
 
-## Layout
+## Layout.
 
 ```
 .github/workflows/   ci.yml (PR gates) + cd.yml (push-to-main deploy, never edited)
